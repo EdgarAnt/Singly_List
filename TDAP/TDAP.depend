@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1632723332 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdap\lista.cpp
+	"Lista.h"
+
+1632723332 c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdap\lista.h
+	<iostream>
+	"Nodo.h"
+
+1632723332 c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdap\nodo.h
+	<iostream>
+
+1632724413 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdap\main.cpp
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+	<string>
+
+1632723332 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\tdap\nodo.cpp
+	"Nodo.h"
+
